@@ -11,11 +11,11 @@
 
 <h2> 🌐 Connect with me:</h2>
 
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://www.linkedin.com/in/daniel-w-amoh-ii-217249262" />][linkedin]
+[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [github]: https://github.com/yourGitHubUsername
-[linkedin]: https://linkedin.com/in/yourLinkedInProfile
+[linkedin]: https://www.linkedin.com/in/daniel-w-amoh-ii-217249262
 
 <!--
 yourGitHubUsername/yourGitHubUsername is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
