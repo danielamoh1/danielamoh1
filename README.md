@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Linux and Infrastructure Projects:</h2>
 
-- <b>RHCSA-BASED_WORL</b>
+- <b>RHCSA-BASED_WORK</b>
   - [Documentation](https://github.com/danielamoh1/RHCSA-BASED-WORK/tree/main)
 - <b>RHCE Based Projects</b>
   - [Loading...](https://github.com/yourGitHubUsername/RHCE-Projects)
