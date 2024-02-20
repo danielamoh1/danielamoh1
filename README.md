@@ -11,7 +11,7 @@
 
 <h2> 🌐 Connect with me:</h2>
 
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://www.linkedin.com/in/daniel-w-amoh-ii-217249262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />][linkedin]
 [<img align="left" alt="Daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [github]: https://github.com/yourGitHubUsername
