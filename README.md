@@ -3,11 +3,11 @@
 <h2>👨‍💻 Linux and Infrastructure Projects:</h2>
 
 - <b>RHCSA Based Projects</b>
-  - [Comprehensive System Administration Tasks](https://github.com/yourGitHubUsername/RHCSA-Projects)
+  - [Loading...](https://github.com/yourGitHubUsername/RHCSA-Projects)
 - <b>RHCE Based Projects</b>
-  - [Advanced Linux Networking and Security](https://github.com/yourGitHubUsername/RHCE-Projects)
-- <b>Terraform Based Projects</b>
-  - [Infrastructure as Code (IaC) with Terraform](https://github.com/yourGitHubUsername/Terraform-Projects)
+  - [Loading...](https://github.com/yourGitHubUsername/RHCE-Projects)
+- <b>DevOpsBased Projects</b>
+  - [Loading...](https://github.com/yourGitHubUsername/DevOPs-Projects)
 
 <h2> 🌐 Connect with me:</h2>
 
