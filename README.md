@@ -9,7 +9,7 @@
 - <b>RHCE Based Projects</b>
   - [Loading...](https://github.com/yourGitHubUsername/RHCE-Projects)
 - <b>DevOpsBased Projects</b>
-  - [Loading...](https://github.com/yourGitHubUsername/DevOPs-Projects)
+  - [AWS_JENKINS](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
 
 <h2> 🌐 Connect with me:</h2>
 
