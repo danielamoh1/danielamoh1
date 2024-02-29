@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Linux and Infrastructure Projects:</h2>
 
-- <b>Linux Admin Projects</b>
-  - [Loading...]
 - <b>RHCSA-BASED-WORK</b>
   - [Documentation](https://github.com/danielamoh1/RHCSA-BASED-WORK/tree/main)
 - <b>RHCE Based Projects</b>
