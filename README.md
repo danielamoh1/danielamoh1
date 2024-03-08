@@ -8,6 +8,7 @@
   - [Loading...](https://github.com/yourGitHubUsername/RHCE-Projects)
 - <b>DevOpsBased Projects</b>
   - [AWS & JENKINS_CI/CD PIPELINE](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
+  - [Automated-Infrastructure-as-Code-IaC-Deployment-with-Security-Compliance](https://github.com/danielamoh1/Automated-Infrastructure-as-Code-IaC-Deployment-with-Security-Compliance/tree/main)
 
 <h2> 🌐 Connect with me:</h2>
 
