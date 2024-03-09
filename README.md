@@ -1,5 +1,4 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/yourGitHubUsername">Linux Engineer</a>, <a href="https://www.linkedin.com/in/yourLinkedInProfile/">Certified Professional</a></h1>
-https://github.com/danielamoh1/danielamoh1/assets/160555417/aef86771-4210-47cf-a91d-52ce9324e41e.jpg
 
 <h2>👨‍💻 Linux and Infrastructure Projects:</h2>
 
