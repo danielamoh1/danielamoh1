@@ -8,6 +8,7 @@
   - [Ansible Documentation](https://github.com/danielamoh1/RHCE-BASED-PROJECT)
 - <b> Linux based work</b>
    - [Nagios Documentation](https://github.com/danielamoh1/Nagios_system-network)
+   - [DISA STIG Bash Script](https://github.com/danielamoh1/STIGS_BASHSCRIPT)
 - <b>DevOpsBased Projects</b>
   - [AWS & JENKINS_CI/CD PIPELINE](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
   - [Automated-IaC-Deployment-with-Security-Compliance](https://github.com/danielamoh1/Automated-IaC-Deployment-with-Security-Compliance)
