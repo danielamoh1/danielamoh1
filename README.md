@@ -10,6 +10,8 @@
    - [Nagios Documentation](https://github.com/danielamoh1/Nagios_system-network)
    - [DISA STIG Bash Script](https://github.com/danielamoh1/STIGS_BASHSCRIPT)
    - [Troubleshooting](https://github.com/danielamoh1/Troubleshooting/tree/main)
+- <b>Linux Kernerl</b>
+   - [Linux kernerl personal breakdown](
 - <b>DevOpsBased Projects</b>
   - [AWS & JENKINS_CI/CD PIPELINE](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
   - [Automated-IaC-Deployment-with-Security-Compliance](https://github.com/danielamoh1/Automated-IaC-Deployment-with-Security-Compliance)
