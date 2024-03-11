@@ -11,7 +11,7 @@
    - [DISA STIG Bash Script](https://github.com/danielamoh1/STIGS_BASHSCRIPT)
    - [Troubleshooting](https://github.com/danielamoh1/Troubleshooting/tree/main)
 - <b>Linux Kernerl</b>
-   - [Linux kernerl personal breakdown](
+   - [Linux Kernel...](https://github.com/danielamoh1/Linux-Kernel../tree/main)
 - <b>DevOpsBased Projects</b>
   - [AWS & JENKINS_CI/CD PIPELINE](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
   - [Automated-IaC-Deployment-with-Security-Compliance](https://github.com/danielamoh1/Automated-IaC-Deployment-with-Security-Compliance)
