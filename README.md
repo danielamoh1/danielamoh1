@@ -23,7 +23,7 @@
 [<img align="left" alt="Daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [github]: https://github.com/yourGitHubUsername
-[linkedin]: https://www.linkedin.com/in/daniel-w-amoh-ii-217249262
+[linkedin]: www.linkedin.com/in/daniel-amoh4
 
 <!--
 yourGitHubUsername/yourGitHubUsername is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
