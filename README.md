@@ -16,6 +16,7 @@
   - [AWS & JENKINS_CI/CD PIPELINE](https://github.com/danielamoh1/AWS_Jenkins_Project.git)
   - [Automated-IaC-Deployment-with-Security-Compliance](https://github.com/danielamoh1/Automated-IaC-Deployment-with-Security-Compliance)
   - [MicroFlex-Architecture](https://github.com/danielamoh1/MicroFlex-Architecture)
+  - [AzureDevOpsPro](https://github.com/danielamoh1/AzureDevOpsPro)
 
 <h2> 🌐 Connect with me:</h2>
 
