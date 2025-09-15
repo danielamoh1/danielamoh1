@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/yourGitHubUsername">Linux Engineer</a>, <a href="https://www.linkedin.com/in/yourLinkedInProfile/">Certified Professional</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/yourGitHubUsername">Cloud | MLOpsEngineer</a>, <a href="https://www.linkedin.com/in/yourLinkedInProfile/">Certified Professional</a></h1>
 
 <h2>👨‍💻 Linux and Infrastructure Projects:</h2>
 
